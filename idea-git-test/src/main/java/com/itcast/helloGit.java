@@ -10,10 +10,5 @@ public class helloGit {
         System.out.println("hello git");
         System.out.println("hello git");
         System.out.println("hello git");
-        System.out.println(1111111111);
-        System.out.println(1111111111);
-        System.out.println(1111111111);
-        System.out.println(1111111111);
-
     }
 }
